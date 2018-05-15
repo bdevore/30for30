@@ -1,0 +1,1 @@
+I like git because it allows you to create multiple branches which can later be merged together
