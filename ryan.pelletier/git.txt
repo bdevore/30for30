@@ -1,0 +1,2 @@
+Pros: I like that git has a bunch of cool tools (example: SourceTree), great IDE support (example: Intellij), and a good community. 
+Cons: Simple things can be overly complicated.
