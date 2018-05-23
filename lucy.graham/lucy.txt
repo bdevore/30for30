@@ -1,0 +1,2 @@
+I like that Git is a fast, free, and open source distributed version control system that is capable of managing both large and small development projects.
+I don't like that Git commands are non-intuitive for new users of the tool (e.g., handling merge conflicts).
