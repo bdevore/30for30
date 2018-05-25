@@ -18,3 +18,4 @@ Make sure you add good comments when you commit your changes
   - Damien King-Acevedo 5/16/2018
   - Emile Issaelkhoury 5/16/2018
   - Lucy Graham 5/21/2018
+  - Ryan Pelletier 5/22/2018
