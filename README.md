@@ -19,3 +19,4 @@ Make sure you add good comments when you commit your changes
   - Emile Issaelkhoury 5/16/2018
   - Lucy Graham 5/21/2018
   - Ryan Pelletier 5/22/2018
+  - Brad Kornreich 5/24/2018
